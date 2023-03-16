@@ -1,4 +1,4 @@
-# 30DaysOfPython
+# IntroToPython
 
 Python is a high-level, interpreted programming language that is widely used in many fields, including data science, web development, scientific computing, and artificial intelligence. It was first released in 1991 and has since become one of the most popular programming languages, known for its simplicity, readability, and versatility.
 
